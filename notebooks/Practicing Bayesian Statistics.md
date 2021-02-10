@@ -157,4 +157,4 @@ Vasishth, S., & Nicenboim, B. (2016). Statistical methods for linguistic researc
 
 Vasishth, S., & Nicenboim, B. (2016). Statistical methods for linguistic research: Foundational		 ideas–Part I. Language and Linguistics Compass, 10(8), 349-369.
 
-Western, B. (1999). Bayesian analysis for sociologists: An introduction. Sociological Methods &			 Research, 28(1), 7-34.
+Western, B. (1999). Bayesian analysis for sociologists: An introduction. Sociological Methods &	 Research, 28(1), 7-34.
