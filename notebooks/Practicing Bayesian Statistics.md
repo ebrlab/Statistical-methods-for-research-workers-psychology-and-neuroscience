@@ -1,4 +1,4 @@
-## <center>Practicing Bayesian Statistics<center>
+## <center>Practicing Bayesian statistics<center>
 
 ## Contents
 - Introduction
