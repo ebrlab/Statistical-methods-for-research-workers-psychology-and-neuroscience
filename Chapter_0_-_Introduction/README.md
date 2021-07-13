@@ -1,4 +1,4 @@
-Chapter 1: Introduction to Bayesian Methods
-===========
+# Chapter 0: Introduction
 
-### [Read it online here](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter1_Introduction/Ch1_Introduction_PyMC2.ipynb)
+### [Read it online here](https://nbviewer.jupyter.org/github/ebrlab/Statistical-methods-for-research-workers-bayes-for-psychologists-and-neuroscientists/blob/master/Chapter_0_-_Introduction/Ch0_Introduction.ipynb)
+
