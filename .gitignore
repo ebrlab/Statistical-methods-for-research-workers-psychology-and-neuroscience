@@ -1,5 +1,1 @@
-_site
-.sass-cache
-Gemfile.lock
-*.gem
-Bayesian Factor analysis
+.ipynb_checkpoints
