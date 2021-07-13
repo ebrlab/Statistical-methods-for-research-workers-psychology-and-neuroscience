@@ -4,6 +4,10 @@ layout: default
 
 # Statistical Methods for Research Workers: Bayes for Psychologists and Neuroscientists
 
+tl;dr: In these pages...
+
+## Preface
+
 [Statistical Methods for Research Workers](https://en.wikipedia.org/wiki/Statistical_Methods_for_Research_Workers), written by [Ronald A. Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) in 1925, is a landmark publication that ended up not only defining how psychologists and neuroscientists analyse their data, but also influencing how they actually perceive the world.
 Almost a hundred years ago, the field of statistics, i.e. mathematics applied to data, was not at all structured in the way it is today, and "research workers" had to refine, and often invent the methods that would best suit their needs.
 In this seminal book, Fisher codified what it meant to analyse data for the purpose of creating knowledge about the world, paving the way for what came to be statistics as we now know it. Later, the advent of computers transformed the tools available to analyse data, widening the use of statistics to researchers who did not necessarily need or want to deepen their mathematical understanding of the methods.
@@ -21,7 +25,7 @@ Although our preference might show at time, we favour the more oecumenical view 
 We will do our best to only expect entry-level [Python](https://www.anaconda.com/products/individual) coding skills and statistics, and to favour explaining over writing optimised code, showing over assuming.
 
 
-## Preface
+## Introduction
 
 _"[...] we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us statistically significant results."_
 [Ronald A. Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) (17 February 1890 - 29 July 1962). <ins>The design of experiments</ins> (1951). p. 14.
