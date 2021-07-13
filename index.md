@@ -4,7 +4,10 @@ layout: default
 
 # Statistical Methods for Research Workers: Bayes for Psychologists and Neuroscientists
 
-tl;dr: In these pages...
+**tl;dr**: In these pages, you will be shown how Bayesian statistics can work for the kinds of things that researchers in psychology and neuroscience might want to do, using Python notebooks and [PyStan](https://mc-stan.org/users/interfaces/pystan).
+You can dive in the notebook and copy-paste what's most relevant to you, or you can take your time and follow the table of content.
+We aim to explain what it means to run a Bayesian analysis, and introduce concepts as we need them.
+Therefore, it may be useful to review the earlier notebooks even if you are not interested in these simpler statistical tests.
 
 ## Preface
 
