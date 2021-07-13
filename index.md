@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# tatistical Methods for Research Workers: Bayes for Psychologists and Neuroscientists
+# Statistical Methods for Research Workers: Bayes for Psychologists and Neuroscientists
 
 [Statistical Methods for Research Workers](https://en.wikipedia.org/wiki/Statistical_Methods_for_Research_Workers), written by [Ronald A. Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) in 1925, is a landmark publication that ended up not only defining how psychologists and neuroscientists analyse their data, but also influencing how they actually perceive the world.
 Almost a hundred years ago, the field of statistics, i.e. mathematics applied to data, was not at all structured in the way it is today, and "research workers" had to refine, and often invent the methods that would best suit their needs.
